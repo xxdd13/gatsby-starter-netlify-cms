@@ -6,4 +6,4 @@ description: 'running on localhost, but connected to netlify''s cms'
 tags:
   - test
 ---
-![](/img/qq20181230-144604.png)
+![](/img/chemex.jpg)
