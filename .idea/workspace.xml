@@ -3,32 +3,432 @@
   <component name="ChangeListManager">
     <list default="true" id="0542b503-585c-42be-89c8-4af56ce31578" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/1.68cfea5f8f373d93b70d.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/22.0d0c6e87067b2a4f0c47.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/cms.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/cms.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/cms.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/cms.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/cms.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/cms.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/2019-01-20-new-blog-from-xins-localhost/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/2019-01-21-chain-build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-011f66fb73ea2d8041e4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-011f66fb73ea2d8041e4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-16a78975b176eeff1ccb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-16a78975b176eeff1ccb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-2eaed74c530e990912ee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-2eaed74c530e990912ee.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-2ed6181b1ddf64233539.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-2ed6181b1ddf64233539.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-496ad02de570314b6f33.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-496ad02de570314b6f33.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-a9f9e67e0ec0e3ab03f0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-a9f9e67e0ec0e3ab03f0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-c4591aa28ef5c33948b6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-c4591aa28ef5c33948b6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-e942a7f423aee47b9c5d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-e942a7f423aee47b9c5d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-fcdcb0421e6dba3cd195.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0-fcdcb0421e6dba3cd195.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-029d3b0edfb10567f6cc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-029d3b0edfb10567f6cc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-08de33b96867d6ff4b7f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-08de33b96867d6ff4b7f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-32f511b1c83d13d731ea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-32f511b1c83d13d731ea.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-3eced36542585d0fcbb6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-3eced36542585d0fcbb6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-726a91717f2480dfd211.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-726a91717f2480dfd211.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-7510c4c3b2a97fba1680.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-7510c4c3b2a97fba1680.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-78b1ff9c81b56e932c10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-78b1ff9c81b56e932c10.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-a2c18d84ca63d2c33565.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-a2c18d84ca63d2c33565.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-c46b9fb421648c0cf469.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-c46b9fb421648c0cf469.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-f80daf3ab1680abdce18.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1-f80daf3ab1680abdce18.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/17-267bf751aabeae6943db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/17-267bf751aabeae6943db.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/18-84fc6ed4e8057aec6927.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/18-84fc6ed4e8057aec6927.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/19-56ad033650f1f209741b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/19-56ad033650f1f209741b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/19-a05de81ec8c64907ee0f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/19-a05de81ec8c64907ee0f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/19-a57acd20d7e37d668978.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/19-a57acd20d7e37d668978.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-028166abdbe0b12c986e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-028166abdbe0b12c986e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-056af51e54799aacfe4a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-056af51e54799aacfe4a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-687283b36f41133313f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-687283b36f41133313f9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-933a087e7416bd6e8301.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-933a087e7416bd6e8301.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-afce62ad3e2b3290e2bd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-afce62ad3e2b3290e2bd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-c4183027ff991e3479d8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-c4183027ff991e3479d8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-c4f67a2d45cfc165f721.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-c4f67a2d45cfc165f721.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-ced32bca8ba228703ea2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-ced32bca8ba228703ea2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-d6dbe9fed5809ac9e44b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-d6dbe9fed5809ac9e44b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-dec134bb3fe17fea2614.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2-dec134bb3fe17fea2614.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/20-fcafc307c24f2082f2cb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/20-fcafc307c24f2082f2cb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/21-600a4353694ca6f6a41b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/21-600a4353694ca6f6a41b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/21-c46bc5b45d78687d69d7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/21-c46bc5b45d78687d69d7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/21.0d0c6e87067b2a4f0c47.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/22-450808b5ff76a7c1b6ac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/22-450808b5ff76a7c1b6ac.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/22-54b6b0fe2900cbdd9647.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/22-54b6b0fe2900cbdd9647.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/22-a07002a964323e92b7fc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/22-a07002a964323e92b7fc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/23-2a3493125c6769ffe2bc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/23-2a3493125c6769ffe2bc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/3-10afb5b07d288337eb4a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/3-10afb5b07d288337eb4a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/3-46e1fe1af76df0ac1a14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/3-46e1fe1af76df0ac1a14.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/3-52297238460a99037837.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/3-52297238460a99037837.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/_headers" beforeDir="false" afterPath="$PROJECT_DIR$/public/_headers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-08b4770175165250befd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-08b4770175165250befd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-299229bb313a325716e9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-299229bb313a325716e9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-47fc8a2c25e53a44175e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-47fc8a2c25e53a44175e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-4831c40dd8c0b201b63b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-4831c40dd8c0b201b63b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-563a823029c4ba5a3237.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-563a823029c4ba5a3237.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-5fc5a72560d0038eb37d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-5fc5a72560d0038eb37d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-7c577edd4757cb0aede2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-7c577edd4757cb0aede2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-a92d764e5d7dbdf6abad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-a92d764e5d7dbdf6abad.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-e446c7faee77a0126486.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-e446c7faee77a0126486.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-e6e19d4998646828cbf4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-e6e19d4998646828cbf4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/2019-01-20-new-blog-from-xins-localhost/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/2019-01-20-new-blog-from-xins-localhost/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/2019-01-21-chain-build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/2019-01-21-chain-build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/chunk-map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-05930dfa7d7686e5e341.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-05930dfa7d7686e5e341.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-37b3a3f813294192aa3d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-37b3a3f813294192aa3d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-37e94f8e885384cc235c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-37e94f8e885384cc235c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-405dba7db73eab05cf79.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-405dba7db73eab05cf79.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-98e9079e25975949fc88.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-98e9079e25975949fc88.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-b335e4798894038fed7d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-b335e4798894038fed7d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-ca89e51826d8446bad95.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-ca89e51826d8446bad95.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-events-js-1600dae9b5bfa2a9b2a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-events-js-1600dae9b5bfa2a9b2a7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-events-js-67e97f0f73c7d96d51b9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-events-js-67e97f0f73c7d96d51b9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-events-js-983500ba0c34947fa104.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-events-js-983500ba0c34947fa104.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-example-control-slot-js-0fd42ef88b4e16ef5dca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-example-control-slot-js-0fd42ef88b4e16ef5dca.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-example-control-slot-js-14681c295f96196f57d1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-example-control-slot-js-14681c295f96196f57d1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-example-control-slot-js-1b9b88743d2904c5de6e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-example-control-slot-js-1b9b88743d2904c5de6e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-example-control-slot-js-a373f99b09652b8c35fb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-example-control-slot-js-a373f99b09652b8c35fb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-2b12a9f81e7670d3d172.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-2b12a9f81e7670d3d172.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-3e3962ba9ec58d5307c8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-3e3962ba9ec58d5307c8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-41672dcbd2d6c6a871ef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-41672dcbd2d6c6a871ef.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-526e1c4a7b6f249d0fb6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-526e1c4a7b6f249d0fb6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-8621dbefe79a3df7d445.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-8621dbefe79a3df7d445.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-8dff818e169bb503473e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-8dff818e169bb503473e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-98d46216dace532a2089.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-98d46216dace532a2089.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-9992c8451571f072af5b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-9992c8451571f072af5b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-c18e3cc629e8d33cd5b0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-c18e3cc629e8d33cd5b0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-cd9e167cd3aa39b531b2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-cd9e167cd3aa39b531b2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-e702bdc7b76424229f30.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js-e702bdc7b76424229f30.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-index-js.1c580bf8aa230c81f55b.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/products/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-selectable-js-41b6f99a6ac77ab9eee4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-selectable-js-41b6f99a6ac77ab9eee4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-selectable-js-4b90e9afb52da844a5b8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-selectable-js-4b90e9afb52da844a5b8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-selectable-js-92044adec977839407f5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-selectable-js-92044adec977839407f5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-selectable-js-acf50b73bc612bf99fe0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-calendar-selectable-js-acf50b73bc612bf99fe0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-0103ae84090d65e5b73f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-0103ae84090d65e5b73f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-05d015fa9c6bd3f60fb0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-05d015fa9c6bd3f60fb0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-24731aa073434a04ffd5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-24731aa073434a04ffd5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-59b1dea1e8ef91a68497.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-59b1dea1e8ef91a68497.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-acbf06dcdda737a29488.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-acbf06dcdda737a29488.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-d8d4eb93cfa254b4b9d3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-d8d4eb93cfa254b4b9d3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-e3811a83ad39acdfeb82.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-e3811a83ad39acdfeb82.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-e3b973fabf127babcc54.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-e3b973fabf127babcc54.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-13dca95758806fd485ef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-13dca95758806fd485ef.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-25c08e6afa8adae3d8df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-25c08e6afa8adae3d8df.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-302ac62156babab2d4bf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-302ac62156babab2d4bf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-3ff47d224c958a88a535.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-3ff47d224c958a88a535.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-5cd9e07c79c4d1d5df2d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-5cd9e07c79c4d1d5df2d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-5f373045c36cdba26b79.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-5f373045c36cdba26b79.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-a41261db691102fc9313.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-a41261db691102fc9313.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-b8fdae41f85b6d032671.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-b8fdae41f85b6d032671.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-d45f028428d83b2a4b62.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-d45f028428d83b2a4b62.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-04691e37f74b4abce0d2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-04691e37f74b4abce0d2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-296cbb786d7720f4e7c3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-296cbb786d7720f4e7c3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-6bce202bb63eba4f9195.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-6bce202bb63eba4f9195.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-76967a5b2615a7794b0c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-76967a5b2615a7794b0c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-a2d1fe5232267b26bf84.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-a2d1fe5232267b26bf84.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-b3039185b95f7d140bb3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-b3039185b95f7d140bb3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-c33aabc2ae60bf59b079.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-c33aabc2ae60bf59b079.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-d707219470d97291291c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-d707219470d97291291c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-dcd3d808b5cc5b653a8e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-dcd3d808b5cc5b653a8e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-02dc64ff9113e06e0f46.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-02dc64ff9113e06e0f46.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-06d595b9eac5d0dc2c92.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-06d595b9eac5d0dc2c92.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-19d8ab6f03b96ecd4979.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-19d8ab6f03b96ecd4979.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-224b7f126b4e4ea043fb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-224b7f126b4e4ea043fb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-971282d478e5e032d408.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-971282d478e5e032d408.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-af1baf97c7b07e5f1754.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-af1baf97c7b07e5f1754.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-e6090940b1525a01e626.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-e6090940b1525a01e626.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-1829180ed5d6c89c1e86.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-1829180ed5d6c89c1e86.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-3e9cbb56e9a40658b2ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-3e9cbb56e9a40658b2ca.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-7edb0dd84778363c21ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-7edb0dd84778363c21ab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-a2fcd9b06338a8c98736.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-a2fcd9b06338a8c98736.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-aa127f8d3727e57def58.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-aa127f8d3727e57def58.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-d535434f04eb1a7fb60e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-d535434f04eb1a7fb60e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-f7f7e2ee0242ae63ef71.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-f7f7e2ee0242ae63ef71.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-534704bc351c776409dd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-534704bc351c776409dd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-69842db5d2b58a8166be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-69842db5d2b58a8166be.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-82ec1bd996a0e29c0691.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-82ec1bd996a0e29c0691.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-a6567cd3c96b2f52c8fe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-a6567cd3c96b2f52c8fe.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-a829b0812b7803472849.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-a829b0812b7803472849.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-b3f5369a492b6c946361.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-b3f5369a492b6c946361.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-b8eade8bae5ce8155845.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-b8eade8bae5ce8155845.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-e2807caa188dd75683fe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-e2807caa188dd75683fe.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-eae29380919f11ab9d54.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-eae29380919f11ab9d54.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-0aad99274693739f73c0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-0aad99274693739f73c0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-0c9edcff7c8eb80c381f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-0c9edcff7c8eb80c381f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-13f2376e96c469c23c62.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-13f2376e96c469c23c62.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-59510e783770ea112368.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-59510e783770ea112368.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-93ecb75c6656bacfaed7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-93ecb75c6656bacfaed7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-98e11d526708d83d0f69.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-98e11d526708d83d0f69.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-b2b576a7ad896e88b931.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-b2b576a7ad896e88b931.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-e5b2edef1bc27544b293.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-e5b2edef1bc27544b293.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-0222aca50ec01794d807.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-0222aca50ec01794d807.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-1f71407cdf05f29027ac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-1f71407cdf05f29027ac.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-252040cd11277c8c3097.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-252040cd11277c8c3097.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-49c5828a4f4b0785dca8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-49c5828a4f4b0785dca8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-6a2a4fa30ac1b1ffa685.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-6a2a4fa30ac1b1ffa685.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-6bd9cf216e5dc8dd6452.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-6bd9cf216e5dc8dd6452.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-936c77333588169c37cf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-936c77333588169c37cf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-ee32d309a04816664c42.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-ee32d309a04816664c42.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-f0d689fb0d2c8b15d28d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-f0d689fb0d2c8b15d28d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-0f0241d656ad65c690f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-0f0241d656ad65c690f6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-45383a386bd3865232df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-45383a386bd3865232df.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-5203b8ae9f16363186bb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-5203b8ae9f16363186bb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-a0f0137eaa396fa58310.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-a0f0137eaa396fa58310.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-bb2d8b069e6353e069a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-bb2d8b069e6353e069a7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-d3a28f9d00e4d78a90bc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-d3a28f9d00e4d78a90bc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-d43c4c60ba02bda16294.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-d43c4c60ba02bda16294.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-ecadce8676abb11f1bf9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-ecadce8676abb11f1bf9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-06ce59c6eaa755366b9f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-06ce59c6eaa755366b9f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-15e845650400eca9d267.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-15e845650400eca9d267.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-30f3ebd00cb448469ece.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-30f3ebd00cb448469ece.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-377f438e4ba9c30c67a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-377f438e4ba9c30c67a7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-6846b91fcccfa3bcf7ba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-6846b91fcccfa3bcf7ba.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-7341ef2e073f134c51d8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-7341ef2e073f134c51d8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-cd089c58d0c81073d201.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-cd089c58d0c81073d201.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-d03055ca0b76aa0ad220.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-d03055ca0b76aa0ad220.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-0e9dd2a4835d22d3fd8e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-0e9dd2a4835d22d3fd8e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-32ce02eb73278d019dcb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-32ce02eb73278d019dcb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-60af4f9a3c6be7db0bbc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-60af4f9a3c6be7db0bbc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-66061289da7b0cc57936.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-66061289da7b0cc57936.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-86037ddcd545a4b0c56e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-86037ddcd545a4b0c56e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-931d38db378e392c5a36.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-931d38db378e392c5a36.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-9af07e7f11c74d3e5450.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-9af07e7f11c74d3e5450.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-dcbf08d413a8d749a9b6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-dcbf08d413a8d749a9b6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-fb1c1376a24189dd7ca8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages-manifest-fb1c1376a24189dd7ca8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/products/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/render-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/render-page.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/render-page.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/brewing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/chemex/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/flavor/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/green-beans/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/jamaica/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tasting/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/calendar/events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/render-page.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/121/path---products-6-ef-42b-dKrhPPRNMUrJ1Tc7yRKBUUsDTo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/264/path---index-6a9-Zyu5JKaar3uFaevUXF7LQ3isceo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/264/path---index-6a9-rRTxgDGbxMWjT30E6XJokrRaiY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/271/path---calendar-demos-rendering-abf-988-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/299/path---calendar-demos-popup-6-b-2-c1d-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/3/path---tags-test-7-c-5-3e3-YPvfQFyy7hxnzoZmtQ7sfblwqw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/326/path---blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex-19-c-fb5-hdmrvi6xQkIVH9d8a39ex28tdM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/377/path---blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-850-fd3-oBBWutcQONHVITSIuSZVHn6L9A.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/392/path---tags-275-fc0-WyrVuOBIxq5GA7nXAagHoIx5M.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/427/path---calendar-demos-dnd-de-8-837-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/444/path---calendar-demos-basic-996-a9e-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/450/path---blog-2019-01-20-new-blog-from-xins-localhost-247-491-dX6TalyJ40vMgx8JOfwCuIfcZQ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/469/path---calendar-demos-custom-header-a-3-e-19a-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/480/path---calendar-events-451-e98-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/518/path---calendar-demos-cultures-a-75-8cb-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/594/path---calendar-demos-selectable-3-ef-f36-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/602/path---calendar-selectable-cb-4-3d9-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/642/path---calendar-demos-custom-view-e-20-a77-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/649/path---about-f-34-4c2-Q6WfEpxYHR3ShSJbjkT2TC6nPM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/655/path---calendar-demos-timeslots-c-81-ec2-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/767/path---calendar-example-control-slot-4-ca-c10-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/837/path---calendar-calendar-106-a7e-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d/950/path---blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel-94-c-8dd-i1nvWBUaijm0mIEpLQxfoLt6PkU.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/brewing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/brewing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/chemex/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/chemex/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/flavor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/flavor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/green-beans/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/green-beans/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/jamaica/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/jamaica/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/tasting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tasting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-0659000d716a42eddcc7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-0659000d716a42eddcc7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-0c7fdc07043c95f66164.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-0c7fdc07043c95f66164.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-11ed4fd20baea7f43d7b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-11ed4fd20baea7f43d7b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-2563990c9be63588b61a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-2563990c9be63588b61a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-429304301caad863a954.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-429304301caad863a954.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-5117e082ae312312bbca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-5117e082ae312312bbca.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-6d74b0c0662cc55c29bd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-6d74b0c0662cc55c29bd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-84e57ef1d9a4d1485d0b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-84e57ef1d9a4d1485d0b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-9188276c6eb3a334a4b1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-9188276c6eb3a334a4b1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-940f00cde14b40a0a173.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-940f00cde14b40a0a173.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-bc7b234d73eb46b9cf69.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-bc7b234d73eb46b9cf69.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-d352109f4cb8fce53aa4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-d352109f4cb8fce53aa4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-f3fba780057ad9a580dc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-f3fba780057ad9a580dc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-f8e37f171fd4d1a5e80c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-f8e37f171fd4d1a5e80c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/webpack.stats.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/calendar/ExampleControlSlot.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/calendar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/calendar/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/calendar/selectable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/calendar/selectable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/calendar/styles.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/calendar/styles.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,11 +445,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/calendar/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/calendar/styles.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="246" column="18" selection-start-line="246" selection-start-column="18" selection-end-line="246" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -57,10 +466,11 @@
       <file leaf-file-name="selectable.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/calendar/selectable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="117" column="24" selection-start-line="117" selection-start-column="24" selection-end-line="117" selection-end-column="24" />
+            <state relative-caret-position="150">
+              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#161#2876#0" />
               </folding>
             </state>
           </provider>
@@ -109,8 +519,10 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/pages/calendar/Selectable.js" />
         <option value="$PROJECT_DIR$/src/pages/calendar/events.js" />
-        <option value="$PROJECT_DIR$/src/pages/calendar/selectable.js" />
+        <option value="$PROJECT_DIR$/src/pages/calendar/ExampleControlSlot.js" />
         <option value="$PROJECT_DIR$/src/pages/calendar/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/calendar/selectable.js" />
+        <option value="$PROJECT_DIR$/src/pages/calendar/styles.less" />
       </list>
     </option>
   </component>
@@ -237,13 +649,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7775000" />
+    <option name="totallyTimeSpent" value="8389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1267" height="1001" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.217496" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.217496" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -252,7 +664,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32964602" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32964602" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32964602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" sideWeight="0.50165015" side_tool="true" weight="0.217496" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -539,13 +951,6 @@
     <entry file="file://$PROJECT_DIR$/src/pages/calendar/demos/dnd.js" />
     <entry file="file://$PROJECT_DIR$/src/pages/calendar/demos/basic.js" />
     <entry file="file://$PROJECT_DIR$/src/pages/calendar/demos/selectable.js" />
-    <entry file="file://$PROJECT_DIR$/src/pages/calendar/styles.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -577,7 +982,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/calendar/ExampleControlSlot.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -592,20 +996,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/calendar/ExampleControlSlot.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/calendar/selectable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="117" column="24" selection-start-line="117" selection-start-column="24" selection-end-line="117" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#161#2876#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/calendar/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/calendar/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="246" column="18" selection-start-line="246" selection-start-column="18" selection-end-line="246" selection-end-column="18" />
         </state>
       </provider>
     </entry>

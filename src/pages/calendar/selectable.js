@@ -1,7 +1,5 @@
 import React from 'react'
 import BigCalendar from 'react-big-calendar'
-import ExampleControlSlot from './ExampleControlSlot'
-
 const propTypes = {}
 
 const events=[
@@ -114,7 +112,8 @@ const events=[
     'end': new Date(2015, 3, 22, 2, 0, 0)
   }
 ];
-
+import moment from 'moment'
+const localizer = BigCalendar.momentLocalizer(moment)
 class Selectable extends React.Component {
   constructor(...args) {
     super(...args)
@@ -138,20 +137,13 @@ class Selectable extends React.Component {
   }
 
   render() {
-    const { localizer } = this.props
     return (
       <div>
-        <ExampleControlSlot.Entry waitForOutlet>
-          <strong>
-            Click an event to see more info, or drag the mouse over the calendar
-            to select a date/time range.
-          </strong>
-        </ExampleControlSlot.Entry>
         <BigCalendar
           selectable
           localizer={localizer}
           events={this.state.events}
-          defaultView={BigCalendar.Views.WEEK}
+          defaultView={BigCalendar.Views.MONTH}
           scrollToTime={new Date(1970, 1, 1, 6)}
           defaultDate={new Date(2015, 3, 12)}
           onSelectEvent={event => alert(event.title)}

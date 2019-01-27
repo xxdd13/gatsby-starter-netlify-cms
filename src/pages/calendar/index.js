@@ -5,11 +5,6 @@ import 'react-big-calendar/lib/less/styles.less';
 import './styles.less';
 import './prism.less';
 
-import BigCalendar from 'react-big-calendar';
-import moment from 'moment'
-const localizer = BigCalendar.momentLocalizer(moment)
-
-
 export default class Index extends React.Component {
   constructor(props) {
     super(props);
@@ -29,7 +24,7 @@ export default class Index extends React.Component {
                     Click an event to see more info, or
                     drag the mouse over the calendar to select a date/time range.
                   </h3>
-                  <Selectable localizer={localizer} />
+                  <Selectable />
 
                 </div>
 
