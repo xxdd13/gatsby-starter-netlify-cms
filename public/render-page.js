@@ -359,7 +359,7 @@ exports.wrapRootElement = true;
 /*! exports provided: pages, dataPaths, default */
 /***/ (function(module) {
 
-module.exports = {"pages":[{"componentChunkName":"component---src-pages-index-js","jsonName":"index","path":"/"},{"componentChunkName":"component---src-pages-404-js","jsonName":"404-html-516","path":"/404.html"},{"componentChunkName":"component---src-pages-404-js","jsonName":"404-22d","path":"/404/"},{"componentChunkName":"component---src-templates-about-page-js","jsonName":"about-f34","path":"/about/"},{"componentChunkName":"component---src-templates-blog-post-js","jsonName":"blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel-94c","path":"/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"},{"componentChunkName":"component---src-templates-blog-post-js","jsonName":"blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex-19c","path":"/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"},{"componentChunkName":"component---src-templates-blog-post-js","jsonName":"blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-850","path":"/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"},{"componentChunkName":"component---src-templates-blog-post-js","jsonName":"blog-2019-01-20-new-blog-from-xins-localhost-247","path":"/blog/2019-01-20-new-blog-from-xins-localhost/"},{"componentChunkName":"component---src-templates-blog-post-js","jsonName":"blog-2019-01-21-chain-build-2df","path":"/blog/2019-01-21-chain-build/"},{"componentChunkName":"component---src-pages-calendar-index-js","jsonName":"calendar-f13","path":"/calendar/"},{"componentChunkName":"component---src-pages-calendar-example-control-slot-js","jsonName":"calendar-example-control-slot-4ca","path":"/calendar/ExampleControlSlot/"},{"componentChunkName":"component---src-pages-calendar-events-js","jsonName":"calendar-events-451","path":"/calendar/events/"},{"componentChunkName":"component---src-pages-calendar-selectable-js","jsonName":"calendar-selectable-a21","path":"/calendar/selectable/"},{"componentChunkName":"component---src-pages-contact-index-js","jsonName":"contact-26a","path":"/contact/"},{"componentChunkName":"component---src-pages-contact-examples-js","jsonName":"contact-examples-142","path":"/contact/examples/"},{"componentChunkName":"component---src-pages-contact-file-upload-js","jsonName":"contact-file-upload-b1a","path":"/contact/file-upload/"},{"componentChunkName":"component---src-pages-contact-thanks-js","jsonName":"contact-thanks-367","path":"/contact/thanks/"},{"componentChunkName":"component---src-templates-product-page-js","jsonName":"products-6ef","path":"/products/"},{"componentChunkName":"component---src-pages-tags-index-js","jsonName":"tags-275","path":"/tags/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-brewing-d36","path":"/tags/brewing/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-chemex-13a","path":"/tags/chemex/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-flavor-980","path":"/tags/flavor/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-green-beans-dce","path":"/tags/green-beans/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-jamaica-ed8","path":"/tags/jamaica/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-tasting-3e1","path":"/tags/tasting/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-test-7c5","path":"/tags/test/"}],"dataPaths":{"404-22d":"44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E","404-html-516":"164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E","about-f34":"844/path---about-f-34-4c2-h1Krs1nABqPgCYQJS2V9gPPq3qA","blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel-94c":"553/path---blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel-94-c-8dd-hCk4CnqHqpCBXHbsWXeihFQY","blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex-19c":"74/path---blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex-19-c-fb5-lrtERNpkV32RGN0eBfJkKyxawg","blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-850":"375/path---blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-850-fd3-rlR1S43kOGSCqtjDQR2rsRweBFE","blog-2019-01-20-new-blog-from-xins-localhost-247":"309/path---blog-2019-01-20-new-blog-from-xins-localhost-247-491-ZveAISfKr3sWUC0Qv7poiC8L3s","blog-2019-01-21-chain-build-2df":"897/path---blog-2019-01-21-chain-build-2-df-94a-jTFPj0eu8lQQM4HPFwTqF6CC78","calendar-events-451":"480/path---calendar-events-451-e98-NZuapzHg3X9TaN1iIixfv1W23E","calendar-example-control-slot-4ca":"767/path---calendar-example-control-slot-4-ca-c10-NZuapzHg3X9TaN1iIixfv1W23E","calendar-f13":"337/path---calendar-f-13-8fd-NZuapzHg3X9TaN1iIixfv1W23E","calendar-selectable-a21":"963/path---calendar-selectable-a-21-fc2-NZuapzHg3X9TaN1iIixfv1W23E","calendar-selectable-cb4":"602/path---calendar-selectable-cb-4-3d9-NZuapzHg3X9TaN1iIixfv1W23E","contact-26a":"686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E","contact-examples-142":"431/path---contact-examples-142-f5a-NZuapzHg3X9TaN1iIixfv1W23E","contact-file-upload-b1a":"275/path---contact-file-upload-b-1-a-f7d-NZuapzHg3X9TaN1iIixfv1W23E","contact-thanks-367":"525/path---contact-thanks-367-a2f-NZuapzHg3X9TaN1iIixfv1W23E","dev-404-page-5f9":"920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E","index":"852/path---index-6a9-GAAP2P4dkwPHSnkmv4JayFH3gc","products-6ef":"401/path---products-6-ef-42b-BsGORgozZ6lNbJUVLfibDDnbuI","sq--src-components-layout-js":1529889140,"tags-275":"54/path---tags-275-fc0-IRoxBpED4Fg4mA6ujExcA9Y40ek","tags-brewing-d36":"562/path---tags-brewing-d-36-21b-2sGR0i5ZWWeFUFWok0cV9UuvlO8","tags-chemex-13a":"805/path---tags-chemex-13-a-177-60mleDpA5wNDVK0rPUsvpwhcl4","tags-flavor-980":"136/path---tags-flavor-980-19d-11xIA45iboOue9splzo0uc0NY5o","tags-green-beans-dce":"146/path---tags-green-beans-dce-340-AdP839E5Dg9QKXfCdJYDDbwriCo","tags-jamaica-ed8":"132/path---tags-jamaica-ed-8-e41-Tk8fQOXJowlz2POfyMnFEpGpb1o","tags-tasting-3e1":"214/path---tags-tasting-3-e-1-687-7G62MZeMxmmVmi2XOyk3sPNPI","tags-test-7c5":"825/path---tags-test-7-c-5-3e3-RymmY16d5fBHldKj3fg3cfoGMzc"}};
+module.exports = {"pages":[{"componentChunkName":"component---src-pages-index-js","jsonName":"index","path":"/"},{"componentChunkName":"component---src-pages-404-js","jsonName":"404-html-516","path":"/404.html"},{"componentChunkName":"component---src-pages-404-js","jsonName":"404-22d","path":"/404/"},{"componentChunkName":"component---src-templates-about-page-js","jsonName":"about-f34","path":"/about/"},{"componentChunkName":"component---src-templates-blog-post-js","jsonName":"blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel-94c","path":"/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"},{"componentChunkName":"component---src-templates-blog-post-js","jsonName":"blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex-19c","path":"/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"},{"componentChunkName":"component---src-templates-blog-post-js","jsonName":"blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-850","path":"/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"},{"componentChunkName":"component---src-templates-blog-post-js","jsonName":"blog-2019-01-20-new-blog-from-xins-localhost-247","path":"/blog/2019-01-20-new-blog-from-xins-localhost/"},{"componentChunkName":"component---src-templates-blog-post-js","jsonName":"blog-2019-01-21-chain-build-2df","path":"/blog/2019-01-21-chain-build/"},{"componentChunkName":"component---src-pages-calendar-index-js","jsonName":"calendar-f13","path":"/calendar/"},{"componentChunkName":"component---src-pages-calendar-example-control-slot-js","jsonName":"calendar-example-control-slot-4ca","path":"/calendar/ExampleControlSlot/"},{"componentChunkName":"component---src-pages-calendar-selectable-js","jsonName":"calendar-selectable-a21","path":"/calendar/selectable/"},{"componentChunkName":"component---src-pages-contact-index-js","jsonName":"contact-26a","path":"/contact/"},{"componentChunkName":"component---src-pages-contact-examples-js","jsonName":"contact-examples-142","path":"/contact/examples/"},{"componentChunkName":"component---src-pages-contact-file-upload-js","jsonName":"contact-file-upload-b1a","path":"/contact/file-upload/"},{"componentChunkName":"component---src-pages-contact-thanks-js","jsonName":"contact-thanks-367","path":"/contact/thanks/"},{"componentChunkName":"component---src-templates-product-page-js","jsonName":"products-6ef","path":"/products/"},{"componentChunkName":"component---src-pages-tags-index-js","jsonName":"tags-275","path":"/tags/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-brewing-d36","path":"/tags/brewing/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-chemex-13a","path":"/tags/chemex/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-flavor-980","path":"/tags/flavor/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-green-beans-dce","path":"/tags/green-beans/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-jamaica-ed8","path":"/tags/jamaica/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-tasting-3e1","path":"/tags/tasting/"},{"componentChunkName":"component---src-templates-tags-js","jsonName":"tags-test-7c5","path":"/tags/test/"}],"dataPaths":{"404-22d":"44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E","404-html-516":"164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E","about-f34":"844/path---about-f-34-4c2-h1Krs1nABqPgCYQJS2V9gPPq3qA","blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel-94c":"553/path---blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel-94-c-8dd-hCk4CnqHqpCBXHbsWXeihFQY","blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex-19c":"74/path---blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex-19-c-fb5-lrtERNpkV32RGN0eBfJkKyxawg","blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-850":"375/path---blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-850-fd3-rlR1S43kOGSCqtjDQR2rsRweBFE","blog-2019-01-20-new-blog-from-xins-localhost-247":"309/path---blog-2019-01-20-new-blog-from-xins-localhost-247-491-ZveAISfKr3sWUC0Qv7poiC8L3s","blog-2019-01-21-chain-build-2df":"897/path---blog-2019-01-21-chain-build-2-df-94a-jTFPj0eu8lQQM4HPFwTqF6CC78","calendar-events-451":"480/path---calendar-events-451-e98-NZuapzHg3X9TaN1iIixfv1W23E","calendar-example-control-slot-4ca":"767/path---calendar-example-control-slot-4-ca-c10-NZuapzHg3X9TaN1iIixfv1W23E","calendar-f13":"337/path---calendar-f-13-8fd-NZuapzHg3X9TaN1iIixfv1W23E","calendar-selectable-a21":"963/path---calendar-selectable-a-21-fc2-NZuapzHg3X9TaN1iIixfv1W23E","contact-26a":"686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E","contact-examples-142":"431/path---contact-examples-142-f5a-NZuapzHg3X9TaN1iIixfv1W23E","contact-file-upload-b1a":"275/path---contact-file-upload-b-1-a-f7d-NZuapzHg3X9TaN1iIixfv1W23E","contact-thanks-367":"525/path---contact-thanks-367-a2f-NZuapzHg3X9TaN1iIixfv1W23E","dev-404-page-5f9":"920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E","index":"852/path---index-6a9-GAAP2P4dkwPHSnkmv4JayFH3gc","products-6ef":"401/path---products-6-ef-42b-BsGORgozZ6lNbJUVLfibDDnbuI","sq--src-components-layout-js":1529889140,"tags-275":"54/path---tags-275-fc0-IRoxBpED4Fg4mA6ujExcA9Y40ek","tags-brewing-d36":"562/path---tags-brewing-d-36-21b-2sGR0i5ZWWeFUFWok0cV9UuvlO8","tags-chemex-13a":"805/path---tags-chemex-13-a-177-60mleDpA5wNDVK0rPUsvpwhcl4","tags-flavor-980":"136/path---tags-flavor-980-19d-11xIA45iboOue9splzo0uc0NY5o","tags-green-beans-dce":"146/path---tags-green-beans-dce-340-AdP839E5Dg9QKXfCdJYDDbwriCo","tags-jamaica-ed8":"132/path---tags-jamaica-ed-8-e41-Tk8fQOXJowlz2POfyMnFEpGpb1o","tags-tasting-3e1":"214/path---tags-tasting-3-e-1-687-7G62MZeMxmmVmi2XOyk3sPNPI","tags-test-7c5":"825/path---tags-test-7-c-5-3e3-RymmY16d5fBHldKj3fg3cfoGMzc"}};
 
 /***/ }),
 
@@ -1002,11 +1002,10 @@ var preferDefault = function preferDefault(m) {
 
 exports.components = {
   "component---src-templates-about-page-js": hot(preferDefault(__webpack_require__(/*! ./src/templates/about-page.js */ "./src/templates/about-page.js"))),
-  "component---src-templates-product-page-js": hot(preferDefault(__webpack_require__(/*! ./src/templates/product-page.js */ "./src/templates/product-page.js"))),
   "component---src-templates-blog-post-js": hot(preferDefault(__webpack_require__(/*! ./src/templates/blog-post.js */ "./src/templates/blog-post.js"))),
+  "component---src-templates-product-page-js": hot(preferDefault(__webpack_require__(/*! ./src/templates/product-page.js */ "./src/templates/product-page.js"))),
   "component---src-templates-tags-js": hot(preferDefault(__webpack_require__(/*! ./src/templates/tags.js */ "./src/templates/tags.js"))),
   "component---src-pages-404-js": hot(preferDefault(__webpack_require__(/*! ./src/pages/404.js */ "./src/pages/404.js"))),
-  "component---src-pages-calendar-events-js": hot(preferDefault(__webpack_require__(/*! ./src/pages/calendar/events.js */ "./src/pages/calendar/events.js"))),
   "component---src-pages-calendar-example-control-slot-js": hot(preferDefault(__webpack_require__(/*! ./src/pages/calendar/ExampleControlSlot.js */ "./src/pages/calendar/ExampleControlSlot.js"))),
   "component---src-pages-calendar-index-js": hot(preferDefault(__webpack_require__(/*! ./src/pages/calendar/index.js */ "./src/pages/calendar/index.js"))),
   "component---src-pages-calendar-selectable-js": hot(preferDefault(__webpack_require__(/*! ./src/pages/calendar/selectable.js */ "./src/pages/calendar/selectable.js"))),
@@ -18212,16 +18211,112 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./src/pages/calendar/events.js":
-/*!**************************************!*\
-  !*** ./src/pages/calendar/events.js ***!
-  \**************************************/
+/***/ "./src/pages/calendar/index.js":
+/*!*************************************!*\
+  !*** ./src/pages/calendar/index.js ***!
+  \*************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ([{
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Index; });
+/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
+/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../components/Layout */ "./src/components/Layout.js");
+/* harmony import */ var _selectable__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./selectable */ "./src/pages/calendar/selectable.js");
+/* harmony import */ var react_big_calendar_lib_less_styles_less__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-big-calendar/lib/less/styles.less */ "./node_modules/react-big-calendar/lib/less/styles.less");
+/* harmony import */ var react_big_calendar_lib_less_styles_less__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_big_calendar_lib_less_styles_less__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _styles_less__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./styles.less */ "./src/pages/calendar/styles.less");
+/* harmony import */ var _styles_less__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_styles_less__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _prism_less__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./prism.less */ "./src/pages/calendar/prism.less");
+/* harmony import */ var _prism_less__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_prism_less__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var react_big_calendar__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react-big-calendar */ "./node_modules/react-big-calendar/lib/index.js");
+/* harmony import */ var react_big_calendar__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react_big_calendar__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! moment */ "./node_modules/moment/moment.js");
+/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(moment__WEBPACK_IMPORTED_MODULE_8__);
+
+
+
+
+
+
+
+
+
+var localizer = react_big_calendar__WEBPACK_IMPORTED_MODULE_7___default.a.momentLocalizer(moment__WEBPACK_IMPORTED_MODULE_8___default.a);
+
+var Index =
+/*#__PURE__*/
+function (_React$Component) {
+  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(Index, _React$Component);
+
+  function Index(props) {
+    return _React$Component.call(this, props) || this;
+  }
+
+  var _proto = Index.prototype;
+
+  _proto.render = function render() {
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_2__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("section", {
+      className: "section"
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+      className: "app"
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+      className: "examples"
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+      className: "example"
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+      className: "demo"
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", {
+      className: "callout"
+    }, "Click an event to see more info, or drag the mouse over the calendar to select a date/time range."), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_selectable__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      localizer: localizer
+    })))))));
+  };
+
+  return Index;
+}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
+
+
+
+/***/ }),
+
+/***/ "./src/pages/calendar/prism.less":
+/*!***************************************!*\
+  !*** ./src/pages/calendar/prism.less ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// empty (null-loader)
+
+/***/ }),
+
+/***/ "./src/pages/calendar/selectable.js":
+/*!******************************************!*\
+  !*** ./src/pages/calendar/selectable.js ***!
+  \******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
+/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var react_big_calendar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-big-calendar */ "./node_modules/react-big-calendar/lib/index.js");
+/* harmony import */ var react_big_calendar__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_big_calendar__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _ExampleControlSlot__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ExampleControlSlot */ "./src/pages/calendar/ExampleControlSlot.js");
+
+
+
+
+var propTypes = {};
+var events = [{
   'title': 'All Day Event very long title',
   'bgColor': '#ff7f50',
   'allDay': true,
@@ -18309,143 +18404,7 @@ __webpack_require__.r(__webpack_exports__);
   'title': 'Multi-day Event',
   'start': new Date(2015, 3, 20, 19, 30, 0),
   'end': new Date(2015, 3, 22, 2, 0, 0)
-}]);
-
-/***/ }),
-
-/***/ "./src/pages/calendar/index.js":
-/*!*************************************!*\
-  !*** ./src/pages/calendar/index.js ***!
-  \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Index; });
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var core_js_modules_web_dom_iterable__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! core-js/modules/web.dom.iterable */ "core-js/modules/web.dom.iterable");
-/* harmony import */ var core_js_modules_web_dom_iterable__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_dom_iterable__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var core_js_modules_es6_array_iterator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! core-js/modules/es6.array.iterator */ "core-js/modules/es6.array.iterator");
-/* harmony import */ var core_js_modules_es6_array_iterator__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_array_iterator__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var core_js_modules_es6_object_keys__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! core-js/modules/es6.object.keys */ "core-js/modules/es6.object.keys");
-/* harmony import */ var core_js_modules_es6_object_keys__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_object_keys__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var gatsby_link__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! gatsby-link */ "./node_modules/gatsby-link/index.js");
-/* harmony import */ var gatsby_link__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(gatsby_link__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _selectable__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./selectable */ "./src/pages/calendar/selectable.js");
-/* harmony import */ var react_big_calendar_lib_less_styles_less__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react-big-calendar/lib/less/styles.less */ "./node_modules/react-big-calendar/lib/less/styles.less");
-/* harmony import */ var react_big_calendar_lib_less_styles_less__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(react_big_calendar_lib_less_styles_less__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var _styles_less__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./styles.less */ "./src/pages/calendar/styles.less");
-/* harmony import */ var _styles_less__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_styles_less__WEBPACK_IMPORTED_MODULE_9__);
-/* harmony import */ var _prism_less__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./prism.less */ "./src/pages/calendar/prism.less");
-/* harmony import */ var _prism_less__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_prism_less__WEBPACK_IMPORTED_MODULE_10__);
-/* harmony import */ var react_big_calendar__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react-big-calendar */ "./node_modules/react-big-calendar/lib/index.js");
-/* harmony import */ var react_big_calendar__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react_big_calendar__WEBPACK_IMPORTED_MODULE_11__);
-/* harmony import */ var _events__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./events */ "./src/pages/calendar/events.js");
-/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! moment */ "./node_modules/moment/moment.js");
-/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(moment__WEBPACK_IMPORTED_MODULE_13__);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var localizer = react_big_calendar__WEBPACK_IMPORTED_MODULE_11___default.a.momentLocalizer(moment__WEBPACK_IMPORTED_MODULE_13___default.a);
-
-function encode(data) {
-  return Object.keys(data).map(function (key) {
-    return encodeURIComponent(key) + "=" + encodeURIComponent(data[key]);
-  }).join("&");
-}
-
-var Index =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(Index, _React$Component);
-
-  function Index(props) {
-    var _this;
-
-    _this = _React$Component.call(this, props) || this;
-    _this.state = {
-      isValidated: false
-    };
-    return _this;
-  }
-
-  var _proto = Index.prototype;
-
-  _proto.render = function render() {
-    return react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_6__["default"], null, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("section", {
-      className: "section"
-    }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("div", {
-      className: "app"
-    }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("div", {
-      className: "examples"
-    }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("div", {
-      className: "example"
-    }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("div", {
-      className: "demo"
-    }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("h3", {
-      className: "callout"
-    }, "Click an event to see more info, or drag the mouse over the calendar to select a date/time range."), react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_selectable__WEBPACK_IMPORTED_MODULE_7__["default"], {
-      localizer: localizer
-    })))))));
-  };
-
-  return Index;
-}(react__WEBPACK_IMPORTED_MODULE_4___default.a.Component);
-
-
-
-/***/ }),
-
-/***/ "./src/pages/calendar/prism.less":
-/*!***************************************!*\
-  !*** ./src/pages/calendar/prism.less ***!
-  \***************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-// empty (null-loader)
-
-/***/ }),
-
-/***/ "./src/pages/calendar/selectable.js":
-/*!******************************************!*\
-  !*** ./src/pages/calendar/selectable.js ***!
-  \******************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var react_big_calendar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-big-calendar */ "./node_modules/react-big-calendar/lib/index.js");
-/* harmony import */ var react_big_calendar__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_big_calendar__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _events__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./events */ "./src/pages/calendar/events.js");
-/* harmony import */ var _ExampleControlSlot__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./ExampleControlSlot */ "./src/pages/calendar/ExampleControlSlot.js");
-
-
-
-
-
-var propTypes = {};
+}];
 
 var Selectable =
 /*#__PURE__*/
@@ -18475,7 +18434,7 @@ function (_React$Component) {
     };
 
     _this.state = {
-      events: _events__WEBPACK_IMPORTED_MODULE_3__["default"]
+      events: events
     };
     return _this;
   }
@@ -18484,7 +18443,7 @@ function (_React$Component) {
 
   _proto.render = function render() {
     var localizer = this.props.localizer;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_ExampleControlSlot__WEBPACK_IMPORTED_MODULE_4__["default"].Entry, {
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_ExampleControlSlot__WEBPACK_IMPORTED_MODULE_3__["default"].Entry, {
       waitForOutlet: true
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("strong", null, "Click an event to see more info, or drag the mouse over the calendar to select a date/time range.")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_big_calendar__WEBPACK_IMPORTED_MODULE_2___default.a, {
       selectable: true,
