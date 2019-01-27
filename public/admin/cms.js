@@ -7826,7 +7826,7 @@ module.exports = [{
   plugin: __webpack_require__(141),
   options: {
     "plugins": [],
-    "modulePath": "/Users/xinding/gs/src/cms/cms.js"
+    "modulePath": "/Users/xinding/cms/src/cms/cms.js"
   }
 }];
 
@@ -8043,7 +8043,10 @@ function (_React$Component) {
     }, "Contact"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
       className: "navbar-item",
       to: "/contact/examples"
-    }, "Form Examples")), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+    }, "Form Examples"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
+      className: "navbar-item",
+      to: "/calendar"
+    }, "Calendar")), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
       className: "navbar-end has-text-centered"
     }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("a", {
       className: "navbar-item",

@@ -54,7 +54,13 @@ module.exports = {
             options: {
               destinationDir: 'static',
             }
-          }
+          },
+          {
+            resolve: `gatsby-plugin-less`,
+            options: {
+              strictMath: false,
+            },
+          },
         ],
       },
     },
